@@ -23,8 +23,11 @@ margin-right: 200px;
 
 h3 {
 color: black;
+font-family: Georgia;
 font-size: 16px;
 margin-right: 200px;
+text-align: left;
+font-weight: lighter;
 }
 
 h4 {
@@ -39,5 +42,4 @@ button {
   font-weight: 150;
   font-size: 20px;
   color: green;
-
 }
